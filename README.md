@@ -2,14 +2,13 @@
  ## キャップ野球情報局
  PET bottle cap baseball infomation web service in Japan.
  
- ![](https://github.com/ckoshien/ckoshien/assets/17352441/1e93dfc1-b3d8-4294-a609-ec8042672b1a)
+ <img width="1200" height="630" alt="キャップ野球情報局 (1)" src="https://github.com/user-attachments/assets/1b1ea31d-e14c-417d-9436-1d4f1a40fa8c" />
 
- 
- https://cap-baseball.com
+https://cap-baseball.com
 
  ## CAP-SCOREBOOK(野球盤型競技専用スコアブックアプリ)
+<img width="1200" height="630" alt="CAP-SCOREBOOK" src="https://github.com/user-attachments/assets/8b74ef70-786d-46f3-ac94-33be4ef2aacb" />
 
-![](https://github.com/ckoshien/ckoshien/assets/17352441/e904fc66-3f7f-4249-95f8-d117787d0afd)
 
 https://cap-scorebook.com
 
